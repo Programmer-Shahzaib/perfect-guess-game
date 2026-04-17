@@ -19,7 +19,7 @@ A simple Python game where the user guesses a randomly generated number between 
 ## ▶️ How to Run
 
 ```bash
-python perfect_guess.py
+python main.py
 ```
 
 ---
