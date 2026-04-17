@@ -1,4 +1,3 @@
-# --------------------------------Project 2----------------------------
 # ------------------------------THE PERFECT GUESS----------------------
 import random as r
 name=input("Enter Your name: ",)
